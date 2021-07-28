@@ -1,2 +1,6 @@
-# Misc.-AWS-scripts
-Miscellaneous repository of AWS python scripts for future reference
+# Misc.-Python-scripts
+Miscellaneous repository of python scripts for future reference
+
+-AWS
+-SharePoint
+-Selenium
